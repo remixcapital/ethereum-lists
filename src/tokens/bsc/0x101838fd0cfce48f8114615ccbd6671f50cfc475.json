@@ -1,0 +1,37 @@
+{
+"symbol": "RMX",
+
+"name": "REMIX CAPITAL",
+
+"type": "BEP20",
+
+"address": "0x101838fd0cfce48f8114615ccbd6671f50cfc475",
+"ens_address": "",
+"decimals": 18,
+"website": "https://remix.capital",
+"logo": {
+    "src": "https://remix.capital/files/32x32.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "admin@remix.capital",
+    "url": "https://remix.capital"
+},
+"social": {
+    "blog": "https://remixcapital.medium.com/",
+    "chat": "https://t.me/discussrmx",
+    "facebook": "https://www.facebook.com/capitalremix/",
+    "forum": "",
+    "github": "https://github.com/remixcapital",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/remix_capital/",
+    "slack": "",
+    "telegram": "https://telegram.me/rmxcapital",
+    "twitter": "https://twitter.com/capital_remix",
+    "youtube": ""
+}
+}
